@@ -1,0 +1,39 @@
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    background: #34e7e4;
+   font-family: sans-serif;
+   text-align: center;
+   color: white;
+   font-size: 25px;
+   display: flex;
+   flex-direction: column;
+}
+
+header{
+    background: #1A23A5;
+    padding: 5em 0 5em;
+}
+
+.left{
+    background: #1A23A5;
+    padding: 2em 0 2em;
+}
+
+.right{
+    background: #1A23A5;
+    padding: 2em 0 2em;
+}
+
+footer{
+    background: #1A23A5;
+    padding: 2em 0 2em;
+}
+
+.B777-300ER{
+    width: 1023px;
+    height: 682px;
+}
